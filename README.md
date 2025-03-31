@@ -2,8 +2,8 @@
 Sentidatalyzer is a sentiment analyzer application that identifies the customer sentiment through the customer feedback and accordingly sends the input data to the output file for analytics to predict customer’s satisfaction behaviour .
 
 <p float="left">
-  <img src="https://github.com/swapnilmishra-IITP/sentidatalyzer/blob/main/git-images/home.png" width="500" />
-  <img src="https://github.com/swapnilmishra-IITP/sentidatalyzer/blob/main/git-images/analyze.png" width="500" /> 
+  <img src="https://github.com/swapnilmishra-IITP/sentidatalyzer/blob/master/git-images/home.png" width="500" />
+  <img src="https://github.com/swapnilmishra-IITP/sentidatalyzer/blob/master/git-images/analyze.png" width="500" /> 
 </p>
 
 ### STEPS TO FOLLOW:
